@@ -10,7 +10,7 @@
 
 ## 💡 Blog  
 배움을 기록하고 있습니다 <br>
-📖 [SooBin's 기술 블로그](https://junhyeokkk.tistory.com/)  
+📖 [SuBin's 기술 블로그](https://subindev.tistory.com/)  
 
 ---
 
@@ -55,8 +55,8 @@
 
 <div align="center">
   
-![SooBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeokkk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![SooBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin3578&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin3578&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -67,28 +67,21 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/junhyeokkk/Antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/junhyeokkk/Farmstory_TEAM1) |
+| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578) |
+| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
 
 ---
 
 ### 🎯 현재 작업 중인 내용:
 - 🌱 Spring Boot를 활용한 백엔드 기술 향상
 - 🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
-- 💻 알고리즘 학습과 더불어 Flutter 학습중 
+- 📱 Flutter 학습중 
 
 ---
 
 ### 📫 How to reach me:
-- **Email**: loveu9911111@gmail.com
-
----
-
-### 🥂 재미있는 사실:
-- 🎨 항상 새로운것을 발견하고 배우는것을 좋아합니다.
-- 🚴‍♂️ 코딩하지 않을 때는 사람들을 만나며 시간을 보냅니다.
-
+- **Email**: ghkdtnqls95@naver.com
 ---
 
 </div>
