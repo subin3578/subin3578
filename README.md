@@ -54,7 +54,6 @@
 </div>
 
 ---
----
 ### 📅 Projects Overview
 
 #### 💻 Project Timeline
