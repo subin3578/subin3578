@@ -17,24 +17,6 @@
 <h4 align="left">📘 취득 자격증 : 정보처리기사, SQLD </h4>
 
 ---
-### 📅 Projects Overview
-
-#### 💻 Project Timeline
-| **작업 기한**        | **프로젝트 명**                     | **이동**  |
-|-----------------|-------------------------------|-------|
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578/LotteOn_Team4) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
-
----
-
-### 🎯 현재 작업 중인 내용:
-<h4 align="left">🌱 Spring Boot를 활용한 백엔드 기술 향상</h4>
-<h4 align="left">🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축</h4>
-<h4 align="left">📊 JPA를 이용한 데이터 구조 설계</h4>
-<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
-
----
 
 ### 📚 Tech Stack
 #### ⚡ Platforms & Languages ⚡
@@ -72,6 +54,25 @@
 </div>
 
 ---
+---
+### 📅 Projects Overview
+
+#### 💻 Project Timeline
+| **작업 기한**        | **프로젝트 명**                     | **이동**  |
+|-----------------|-------------------------------|-------|
+| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578/LotteOn_Team4) |
+| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
+
+---
+
+### 🎯 현재 작업 중인 내용:
+<h4 align="left">🌱 Spring Boot를 활용한 백엔드 기술 향상</h4>
+<h4 align="left">🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축</h4>
+<h4 align="left">📊 JPA를 이용한 데이터 구조 설계</h4>
+<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
+
+
 
 ### 🌟 GitHub Stats
 
