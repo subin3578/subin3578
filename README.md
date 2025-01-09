@@ -11,7 +11,7 @@
 ### 👩‍💻 나의 정보
 <h4 align="left">😀 이름 : 황수빈 </h4>
 <h4 align="left">🤍 생년월일 : 1999-10-16 </h4>
-<h4 align="left">📕 학력 : 부경대학교 컴퓨터공학부 소프트웨어전공 | Pukyeong National University </h4>
+<h4 align="left">📕 최종 학력 : 부경대학교 컴퓨터공학부 소프트웨어전공 | Pukyeong National University </h4>
 <h4 align="left">📘 취득 자격증 : 정보처리기사, SQLD </h4>
 
 ---
