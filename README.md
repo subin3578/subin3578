@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=5cb3f9&height=250&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=000000)
 
----
-
 ### 🌟 헤맨만큼 내 땅이다 🌟
 <Strong>문제는 곧 기회!</Strong> 
 끊임없이 땅을 넓혀나가고 있는 <Strong>개발자 황수빈</Strong>입니다. 
