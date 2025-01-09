@@ -29,9 +29,10 @@
 ---
 
 ### 🎯 현재 작업 중인 내용:
-- 🌱 Spring Boot를 활용한 백엔드 기술 향상
-- 🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
-- 📱 Flutter 학습중 
+<h4 align="left">🌱 Spring Boot를 활용한 백엔드 기술 향상</h4>
+<h4 align="left">🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축</h4>
+<h4 align="left">📊 JPA를 이용한 데이터 구조 설계</h4>
+<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
 ---
 
