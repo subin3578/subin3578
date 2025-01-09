@@ -15,7 +15,7 @@
 <h4 align="left">📘 취득 자격증 : 정보처리기사, SQLD </h4>
 
 ---
-<br></br>
+
 ### 📚 Tech Stack
 #### ⚡ Platforms & Languages ⚡
 <div align="center">
@@ -51,7 +51,7 @@
 	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br></br>
+
 ---
 ### 📅 Projects Overview
 
