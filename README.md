@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=150&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=fffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=130&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=fffffff)
 
 ### 🌟 헤맨만큼 내 땅이다 🌟
 <Strong>문제는 곧 기회!</Strong> </br>
@@ -95,15 +95,24 @@
 
 ---
 
+</br>
+
 ### 💻 Blog  
-공부 기록지  
 📖 [SuBin's 기술 블로그](https://subindev.tistory.com/)  
+
+</br>
 
 ---
 
 
 ### 📫 How to reach me:
+
+</br>
+
 - **Email**: ghkdtnqls95@naver.com
+
+</br>
+
 ---
 
 </div>
