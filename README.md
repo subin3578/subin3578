@@ -3,16 +3,35 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=150&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=fffffff)
 
 ### 🌟 헤맨만큼 내 땅이다 🌟
-<Strong>문제는 곧 기회!</Strong> 
+<Strong>문제는 곧 기회!</Strong> </br>
 끊임없이 땅을 넓혀나가고 있는 <Strong>개발자 황수빈</Strong>입니다. 
+
+</br>
 
 ---
 
+
 ### 👩‍💻 나의 정보
 <h4 align="left">😀 이름 : 황수빈 </h4>
-<h4 align="left">🤍 생년월일 : 1999-10-16 </h4>
+<h4 align="left">🎉 생년월일 : 1999-10-16 </h4>
 <h4 align="left">📕 최종 학력 : 부경대학교 컴퓨터공학부 소프트웨어전공 | Pukyeong National University </h4>
 <h4 align="left">📘 취득 자격증 : 정보처리기사, SQLD </h4>
+
+</br>
+
+---
+
+
+### 📅 Projects Overview
+
+
+#### 💻 Project Timeline
+| **작업 기한**        | **프로젝트 명**                     | **이동**  |
+|-----------------|-------------------------------|-------|
+| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578/antwork) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578/TeamProject-LotteOn4) |
+| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
+<br/>
 
 ---
 
@@ -53,24 +72,16 @@
 </div>
 
 ---
-### 📅 Projects Overview
-
-#### 💻 Project Timeline
-| **작업 기한**        | **프로젝트 명**                     | **이동**  |
-|-----------------|-------------------------------|-------|
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578/antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578/LotteOn_Team4) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
-
----
 
 ### 🎯 현재 작업 중인 내용:
 <h4 align="left">🌱 Spring Boot를 활용한 백엔드 기술 향상</h4>
 <h4 align="left">🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축</h4>
 <h4 align="left">📊 JPA를 이용한 데이터 구조 설계</h4>
+<h4 align="left">⚛️ React를 활용한 인터랙티브한 프론트엔드 개발 능력 향상</h4>
+<h4 align="left">🖱️ Open AI 커서를 활용한 웹 개발 경험</h4>
 <h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
-
+---
 
 ### 🌟 GitHub Stats
 
