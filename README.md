@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=5cb3f9&height=250&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=5cb3f9&height=250&section=header&text=💻%20About%20Me%20💻&fontSize=70&fontAlign=50&fontColor=ffffff)
 
 ### 🌟 헤맨만큼 내 땅이다 🌟
 <Strong>문제는 곧 기회!</Strong> 
