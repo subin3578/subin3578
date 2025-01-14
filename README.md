@@ -109,7 +109,7 @@
 
 </br>
 
-- **Email**: ghkdtnqls95@naver.com
+**Email**: ghkdtnqls95@naver.com
 
 </br>
 
