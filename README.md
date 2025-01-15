@@ -69,11 +69,10 @@
 
 </br>
 </br>
-</br>
 
 
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 기술 역량 </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 기술 역량 </h2> 
 
 <h4 align="left">🌱 Spring Boot 기반 RESTFul API 설계</h4>
 <h4 align="left">📊 RDBS, NoSQL(MongoDB)를 활용한 데이터 구조 설계</h4>
@@ -88,12 +87,13 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 GitHub Stats </h2> <br> 
 
-<div align="center">
-  
-![SooBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin3578&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subin3578&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=subin3578&custom_title=subin3578%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin3578&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
 
-</div>
+
+
+
+
 </br>
 
 </div>
