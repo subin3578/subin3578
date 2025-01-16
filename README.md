@@ -6,11 +6,9 @@
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">   헤맨만큼 내 땅이다 ✅</h2>
-</br>
-<h3> 문제는 곧 기회! 🔍</h3> <br> 
+<h3> 문제는 곧 기회! 🔍</h3> 
 <p>끊임없이 <strong>땅을 넓혀나가고 싶은 개발자</strong> 황수빈 입니다.</p>
 
-</br>
 </br>
 
 </div>
