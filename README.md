@@ -2,11 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi%2C+there!+Thank+you+for+coming" alt="Typing SVG" /></a>
 </br>
 </br>
+	
 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">   헤맨만큼 내 땅이다 ✔</h2>
-
-<h3> 문제는 곧 기회! </h3> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">   헤맨만큼 내 땅이다 ✅</h2>
+</br>
+<h3> 문제는 곧 기회! 🔍</h3> <br> 
 <p>끊임없이 <strong>땅을 넓혀나가고 싶은 개발자</strong> 황수빈 입니다.</p>
 
 </br>
