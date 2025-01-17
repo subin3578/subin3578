@@ -79,7 +79,7 @@
 <h4 align="left">⚛️ React, JavaScript를 활용한 웹 애플리케이션 개발</h4>
 <h4 align="left">🖼 HTML과 CSS를 이용한 웹 디자인 경험 </h4>
 <h4 align="left">🚀 AWS, EC2, Docker를 활용한 클라우드 환경 구축 경험</h4>
-<h4 align="left">⚒ Git action을 이용한 CI/CD 파이프라인 구축, 자동 배포 경험</h4>
+<h4 align="left">⚒ Git action을 이용한 CI/CD 파이프라인 구축, 자동 배포</h4>
 <h4 align="left">🖱️ Open AI 커서를 활용한 웹 개발 경험</h4>
 <h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
 
