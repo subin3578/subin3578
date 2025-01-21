@@ -25,9 +25,9 @@
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
 | 24.01.20~ 진행중   | A+ market 중고거래 앱 프로젝트 | [->](https://github.com/subin3578/antwork) |
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/subin3578/antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/subin3578/TeamProject-LotteOn4) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/subin3578) |
+| 24.11.16~24.12.26 | AntWork 그룹웨어 웸 프로젝트     | [->](https://github.com/subin3578/antwork) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 웹 프로젝트            | [->](https://github.com/subin3578/TeamProject-LotteOn4) |
+| 24.09.27~24.10.04 | farmstory 웹 프로젝트                | [->](https://github.com/subin3578) |
 <br/>
 
 
