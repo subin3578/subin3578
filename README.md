@@ -17,6 +17,7 @@
 
 <h4 align="left">📕 학력 : 부경대학교 컴퓨터공학부 소프트웨어전공 | Pukyeong National University</h4>
 <h4 align="left">💻 Blog  : [기술 공부 블로그] <a href=https://subindev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://subindev.tistory.com/"> </a></h4>  <h4 align="left"> 📫 Email : ghkdtnqls95@gmail.com <a href=mailto:ghkdtnqls95@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ghkdtnqls95@gmail.com"> </a> </h4>
+https://ivory-freckle-bda.notion.site/176b1a3d584c8035acacde38e212e0b2
 
 </br>
 
