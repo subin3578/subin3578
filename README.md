@@ -27,13 +27,14 @@
 
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 24.01.20~ 진행중   | A+ market 중고거래 앱 프로젝트 | [->](https://github.com/subin3578/antwork) |
+| 24.01.20 ~ 진행중   | A+ market 중고거래 앱 프로젝트 Flutter | [->](https://github.com/jin123346/APPlusMarket_Flutter) |
+| 24.01.20 ~ 진행중   | A+ market 중고거래 앱 프로젝트 백엔드 | [->](https://github.com/jin123346/APPlusMarket_BE) |
 | 24.11.16~24.12.26 | AntWork 그룹웨어 웹 프로젝트     | [->](https://github.com/subin3578/antwork) |
 | 24.10.18~24.11.15 | LotteOn 쇼핑몰 웹 프로젝트            | [->](https://github.com/subin3578/TeamProject-LotteOn4) |
-| 24.09.27~24.10.04 | farmstory 웹 프로젝트                | [->](https://github.com/subin3578) |
+| 24.09.27~24.10.04 | farmstory 웹 프로젝트                | [->](https://github.com/subin3578/farmstory_team3) |
 <br/>
 
-
+https://github.com/jin123346/APPlusMarket_Flutter
 
 </br>
 
