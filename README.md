@@ -26,8 +26,8 @@
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트  |  SpringBoot / MyBatis / Flutter | 채팅 및 상품 뷰 | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | ▶️ |
-| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트 | SpringBoot / MyBatis / Flutter| 채팅 및 상품 뷰 | [🔗](https://github.com/jin123346/APPlusMarket_BE) | ▶️ |
+| 25.01.20 ~ 25.03.05 | A+ market 중고거래 앱 프로젝트  |  SpringBoot / MyBatis / Flutter | 채팅 및 상품 뷰 | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | ▶️ |
+| 25.01.20 ~ 25.03.05 | A+ market 중고거래 앱 프로젝트 | SpringBoot / MyBatis / Flutter| 채팅 및 상품 뷰 | [🔗](https://github.com/jin123346/APPlusMarket_BE) | ▶️ |
 | 24.11.16 ~ 24.12.26 | Antwork 그룹웨어 웹 프로젝트 | SpringBoot / JPA / React| 페이지 , 문의하기 | [🔗](https://github.com/subin3578/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
 | 24.10.18 ~ 24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰 | SpringBoot / JPA / Thymeleaf | 쿠폰, 포인트, 디자인, </br> 사용자 행동패턴 수집 및 분석  | [🔗](https://github.com/subin3578/TeamProject-LotteOn4) | [▶️](https://www.youtube.com/watch?v=bdmHMJxx5KU) |
 | 24.09.27~24.10.04 | farmstory 웹 프로젝트  | Spring / JPA / Thymeleaf | 상품  | [🔗](https://github.com/subin3578/farmstory_team3) |
