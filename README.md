@@ -22,7 +22,7 @@
 
 </br>
 </br>
-<img max-height= 2000 src="https://github.com/user-attachments/assets/3cc79336-9945-40f0-9590-e0df8a0377bf">
+<img max-height= 1500 src="https://github.com/user-attachments/assets/3cc79336-9945-40f0-9590-e0df8a0377bf">
 </br>
 </br>
 
