@@ -24,7 +24,7 @@
 </br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚒ Tech Stack</h2> 
 </br>
-<img width=600 height=1000 src="https://github.com/user-attachments/assets/1ec346a8-f4be-470d-bb4e-933a6f0e1a99" align="center">
+<img width=550 height=1000 src="https://github.com/user-attachments/assets/1ec346a8-f4be-470d-bb4e-933a6f0e1a99">
 </br>
 </br>
 
