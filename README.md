@@ -1,4 +1,4 @@
-<img width="1368" height="1318" alt="image" src="https://github.com/user-attachments/assets/d7422a28-f5c1-450a-9778-fefa322143f5" /><div align="center">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi%2C+there!+Thank+you+for+coming" alt="Typing SVG" /></a>
 </br>
 </br>
@@ -23,8 +23,7 @@
 </br>
 </br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚒ Tech Stack</h2> 
-
-<img width=800 height= 1000 src="https://github.com/user-attachments/assets/1ec346a8-f4be-470d-bb4e-933a6f0e1a99">
+<img width=600 height=1000 src="https://github.com/user-attachments/assets/1ec346a8-f4be-470d-bb4e-933a6f0e1a99">
 </br>
 </br>
 
