@@ -1,4 +1,3 @@
-<img width="1508" height="1572" alt="image" src="https://github.com/user-attachments/assets/6680c837-1252-46a2-9091-b74c005597b3" /><div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi%2C+there!+Thank+you+for+coming" alt="Typing SVG" /></a>
 </br>
 </br>
