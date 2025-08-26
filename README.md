@@ -21,6 +21,10 @@
 
 
 </br>
+</br>
+<img src="https://github.com/user-attachments/assets/3cc79336-9945-40f0-9590-e0df8a0377bf">
+</br>
+</br>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 Projects Overview </h2> <br> 
   
@@ -35,9 +39,7 @@
 <br/>
 
 
-</br>
-<img src="https://github.com/user-attachments/assets/3cc79336-9945-40f0-9590-e0df8a0377bf">
-</br>
+
 </br>
 
 
