@@ -62,6 +62,7 @@
 </br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔨 Tools I Use </h2> <br> 
+<img width="40" height="12" alt="image" src="https://github.com/user-attachments/assets/569c7b93-9155-4f72-bc70-3082e6f9275d" />
 
  <div align="center">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
@@ -85,8 +86,8 @@
 <h4 align="left">🖼 HTML과 CSS를 이용한 웹 디자인 경험 </h4>
 <h4 align="left">🚀 AWS, EC2, Docker를 활용한 클라우드 환경 구축 경험</h4>
 <h4 align="left">⚒ Git action을 이용한 CI/CD 파이프라인 구축, 자동 배포</h4>
-<h4 align="left">🖱️ Open AI 커서를 활용한 웹 개발 경험</h4>
-<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 학습중  </h4>
+<h4 align="left">🖱️ Open AI Cursor IDE를 활용한 웹 개발 경험</h4>
+<h4 align="left">📱 앱 개발 능력 향상을 위해 Flutter 크로스플랫폼 앱 개발 </h4>
 
 </br>
 
