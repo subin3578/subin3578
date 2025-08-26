@@ -13,7 +13,7 @@
 
 </div>
 <div align="left">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍💻 My Info </h2> 
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍💻 My Info </h2> 
 
 <h4 align="left">💻 Blog  : [기술 공부 블로그] <a href=https://subindev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://subindev.tistory.com/"> </a></h4>  
 <h4 align="left">📃 이력서  : [Notion 이력서] <a href=https://ivory-freckle-bda.notion.site/176b1a3d584c8035acacde38e212e0b2/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://subindev.tistory.com/"> </a></h4>  
@@ -22,12 +22,13 @@
 
 </br>
 </br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚒ Tech Stack</h2> 
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚒ Tech Stack</h2> 
+</br>
 <img width=600 height=1000 src="https://github.com/user-attachments/assets/1ec346a8-f4be-470d-bb4e-933a6f0e1a99">
 </br>
 </br>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 Projects Overview </h2> <br> 
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 Projects Overview </h2> <br> 
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
