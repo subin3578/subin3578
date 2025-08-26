@@ -72,7 +72,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 </div>
-![기술 스택 PNG](https://github.com/user-attachments/assets/7919d7c0-2eef-48d6-b588-38e6d3f11edd)
+<img src="https://github.com/user-attachments/assets/3cc79336-9945-40f0-9590-e0df8a0377bf">
 
 </br>
 </br>
